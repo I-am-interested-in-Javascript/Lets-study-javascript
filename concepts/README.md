@@ -18,3 +18,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 React 에서 locale 
 https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
+
+6. 깊은 복사 , 얕은 복사
+- ramda: https://ramdajs.com/docs/#equals
+- 왓챠 https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a
+- https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
