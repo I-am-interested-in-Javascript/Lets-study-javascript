@@ -32,6 +32,20 @@ https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/w
 
 전체코드 https://gist.github.com/ibare/c736f63fba835c172e60aa98a996dada
 
+```
+export function createElement(type, props, ...children) {
+  // jsx 처리
+  if (typeof type === "function") {
+    return type.apply(null, [props, ...children]);
+  }
+  return { type, props, children };
+}
+```
 
+react의 createelement
+https://reactjs.org/docs/react-without-jsx.html
+
+apply 함수
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
 9. 리덕스 만들기
 https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/week_1/Thursday.md
