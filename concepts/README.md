@@ -26,3 +26,9 @@ https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 
 7. es5, es6 차이
 https://yngmanie.space/posts/es5_vs_es6
+
+8. react 만들기 
+https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/week_2/Tuesday.md
+
+9. 리덕스 만들기
+https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/week_1/Thursday.md
