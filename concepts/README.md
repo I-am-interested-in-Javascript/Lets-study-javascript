@@ -23,3 +23,6 @@ https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 - ramda: https://ramdajs.com/docs/#equals
 - 왓챠 https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+7. es5, es6 차이
+https://yngmanie.space/posts/es5_vs_es6
