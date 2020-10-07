@@ -30,5 +30,8 @@ https://yngmanie.space/posts/es5_vs_es6
 8. react 만들기 
 https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/week_2/Tuesday.md
 
+전체코드 https://gist.github.com/ibare/c736f63fba835c172e60aa98a996dada
+
+
 9. 리덕스 만들기
 https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/week_1/Thursday.md
