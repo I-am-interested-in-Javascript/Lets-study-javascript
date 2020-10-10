@@ -10,6 +10,9 @@
 - 설명: 현재 진행 중인 프로젝트로 React Library를 만드는 프로젝트이다. 
 
 
+[2] create react app 만드는 프로젝트
+- https://github.com/hayoung0Lee/Create-Hayoung-App
+- 아직 시작 준비 중...
 
 
 ## 자바스크립트 개념 정리 - 자바스크립트 공부하기 
@@ -24,3 +27,4 @@ https://d2.naver.com/helloworld/1336
 
 - cli 만들기
 https://appear.github.io/2019/03/17/NODE/my-cli-01/
+
