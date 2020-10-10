@@ -15,3 +15,12 @@
 ## 자바스크립트 개념 정리 - 자바스크립트 공부하기 
 ### 목차
 _coming soon_
+
+
+
+## 나중에 공부하고 싶은 자바스크립트 관련 프로젝트 주제
+- socket io 를 사용해서 소켓 통신 해보기(웹소켓) ws프로토콜 
+https://d2.naver.com/helloworld/1336
+
+- cli 만들기
+https://appear.github.io/2019/03/17/NODE/my-cli-01/
