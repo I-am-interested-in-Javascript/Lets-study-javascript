@@ -28,3 +28,6 @@ https://d2.naver.com/helloworld/1336
 - cli 만들기
 https://appear.github.io/2019/03/17/NODE/my-cli-01/
 
+- 타입 스크립트
+https://github.com/738/clean-code-typescript
+
