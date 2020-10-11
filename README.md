@@ -10,7 +10,7 @@
 - 설명: 현재 진행 중인 프로젝트로 React Library를 만드는 프로젝트이다. 
 
 
-[2] create react app 만드는 프로젝트
+[2] create react app 만드는 프로젝트 (시작: 2020.10.10)
 - https://github.com/hayoung0Lee/Create-Hayoung-App
 - 하고 있숩니다... 노드는 아주 놀라운 것이구먼유
 
