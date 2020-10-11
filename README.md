@@ -12,7 +12,7 @@
 
 [2] create react app 만드는 프로젝트
 - https://github.com/hayoung0Lee/Create-Hayoung-App
-- 아직 시작 준비 중...
+- 하고 있숩니다... 노드는 아주 놀라운 것이구먼유
 
 
 ## 자바스크립트 개념 정리 - 자바스크립트 공부하기 
