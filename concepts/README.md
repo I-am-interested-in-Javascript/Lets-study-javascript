@@ -49,3 +49,16 @@ apply 함수
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
 9. 리덕스 만들기
 https://github.com/textuel/Woowa_Tech_Learning_React_Typescript/blob/master/ms/week_1/Thursday.md
+
+
+10. Lint 와 prettier
+튜토리얼 : https://www.youtube.com/watch?v=Y3kjHM7d3Zo&ab_channel=%EA%B9%80%EC%A0%95%ED%99%98
+카카오 글: https://tech.kakao.com/2019/12/05/make-better-use-of-eslint/
+공식문서의 룰: https://eslint.org/docs/rules/
+
+eslint - 포맷팅  + 코드 품질 체크 /  수정은 개발자가
+prettier - 포매팅 only / 수정을 자동으로 이쁘게
+
+둘다 통합해서 사용을 함: https://prettier.io/docs/en/integrating-with-linters.html
+
+npm run lint 이런식으로 매번 사용할 수 없기 때문에, 깃 훅을 사용하거나(깃 커밋이나 스테이지 할때 검사), 에디터 확장자 사용(코딩할때바로검사)
