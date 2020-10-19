@@ -62,3 +62,8 @@ prettier - 포매팅 only / 수정을 자동으로 이쁘게
 둘다 통합해서 사용을 함: https://prettier.io/docs/en/integrating-with-linters.html
 
 npm run lint 이런식으로 매번 사용할 수 없기 때문에, 깃 훅을 사용하거나(깃 커밋이나 스테이지 할때 검사), 에디터 확장자 사용(코딩할때바로검사)
+
+
+11. package.json 캐럿과 틸트의 차이
+https://blog.outsider.ne.kr/1041
+
