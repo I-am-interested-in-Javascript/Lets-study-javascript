@@ -45,8 +45,13 @@ pure javascript doesn't know how to talk to the internet. That feature is from b
 
 
 
+Dom is a feature outside of javascript, which javascript uses to change website. => [돔이란 무엇인가](https://velog.io/@godori/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80) ,  [다음글](https://velog.io/@surim014/DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+
+웹 api의 종류 => https://developer.mozilla.org/en-US/docs/Web/API
 
 
+* setTimeout is a facade function for something happening outside of javascript
+-> it calls web Browser feature: Timer
 
 
 
