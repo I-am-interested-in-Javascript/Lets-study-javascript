@@ -53,6 +53,32 @@ Dom is a feature outside of javascript, which javascript uses to change website.
 * setTimeout is a facade function for something happening outside of javascript
 -> it calls web Browser feature: Timer
 
+* we're interacting with a world outside of javascript 
+setTimeout같은것 실행이 될때 꼭 call stack이 일단 비어있어야한다. 
+
+setTimeout(func, 0); 
+
+| Timer | complete | on completion |
+| ----- | -------- | ------------- |
+| 0ms   | completed!!! | execute func |
+
+위를 보면 0ms후에 타이머가 끝나서 즉시 조건을 만족하지만, call stack이 빌때까지 queue(callback queue)에서 func는 대기를 타야한다. 
+event loop 이 call stack 이비었는지 계속 확인한다. 
+
+- 콜백 큐는 자바스크립트 엔진의 피쳐이다. 
+
+
+
+* Problems
+- no problems
+- our response data is only available in the callback function - callback hell
+- maybe it feels a little odd to think of passing a function into another function only for it to run much later
+
+* Benefits
+- super explicit once you understand how it works under the hood
+
+
+  
 
 
 3. Iterators
