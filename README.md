@@ -6,7 +6,7 @@
 ### 목차
 1. Javascript HardParts
 2. [Javascript: From Fundamentlas to Functional JS](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) 
-
+3. Javascript New HardParts: https://frontendmasters.com/courses/javascript-new-hard-parts/
 
 
 
