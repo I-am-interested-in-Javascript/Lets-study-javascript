@@ -1,10 +1,13 @@
-# Pure-Javascript
+# Javascript
 나의 자바스크립트 기반 프로젝트의 설명 및 자바스크립트 공부 내용을 관리하는 리포지토리이다. 
 
 
 ## 자바스크립트 개념 정리 - 자바스크립트 공부하기 
 ### 목차
-_coming soon_
+1. Javascript HardParts
+2. [Javascript: From Fundamentlas to Functional JS](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) 
+
+
 
 
 ## 나중에 공부하고 싶은 자바스크립트 관련 프로젝트 주제
