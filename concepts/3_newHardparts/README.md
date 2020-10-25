@@ -77,8 +77,61 @@ event loop 이 call stack 이비었는지 계속 확인한다.
 * Benefits
 - super explicit once you understand how it works under the hood
 
+http://csbin.io/promises
+ *  
+  ```
+  function sayHello() {
+	  setTimeout(() => {console.log("Hello")}, 1000);
+  }
 
-  
+  // Uncomment the line below when ready
+  // sayHello(); /
+  ```
+
+
+* promises - introducing the readability enhancer 
+- special objects built into javascript that get returned immediately when we make a call to a web browser API/feature(fetch) that's set up to return promises(not all of them)
+- promises act as a placeholder for the data we hope to get back from the web browser feature's background work
+- we also attach the functioanlity we want to defer running until that background work is done(using the built in .then method)
+- promise objects will automatically trigger that functionality to run
+
+- the value returned from the web browser feature's work(the returend data from the server using fetch) will be that functions's input/argument
+
+settimeout같은 애들은 진짜 자바스크립트에는 암것도 안하고 브라우저 feature로만 동작하는데, fetch 이런애들은 브라우저 기능도 사용하지만 자바스크립트에도 뭔가 한다. by returning a placeholder called promise
+
+
+
+- using two pronged 'facade' functions that both initiate background web browser work and return a placeholder boejct(promise) immediately in javascript
+
+```
+function display(data){
+  console.log(data);
+}
+const futureData = fetch(url); -> immediately return Promise, fetch is a facade function, xhr
+futureData.then(display) // attaches display functionality
+
+console.log("me first!");
+```
+
+const futureData = fetch(url); 
+
+-> js:
+{
+value: ...
+onfulfillment:[] 
+}
+
+-> browser: xml http request
+| xhr | complete | on completion |
+| ----- | -------- | ------------- |
+|  ..   | completed!!! | update futuredata.value -> and trigger onFulfilled |
+
+
+
+* microtask queue vs macro task queue 
+https://javascript.info/event-loop
+마이크로 다 하고나서 매크로함
+
 
 
 3. Iterators
