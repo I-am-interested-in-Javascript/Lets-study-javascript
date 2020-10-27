@@ -83,3 +83,6 @@ https://velog.io/@bathingape/%EC%8A%A4%EC%BD%94%ED%94%84Scope%EC%99%80-%ED%81%B4
 ```
 내부함수에서 외부함수에서 선언된 변수를 사용한다면 그 내부함수는 클로저이다.
 ```
+
+
+13. DOM vs Virtual Dom: https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/
