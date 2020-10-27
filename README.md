@@ -1,11 +1,5 @@
 # Javascript
-나의 자바스크립트 기반 프로젝트의 설명 및 자바스크립트 공부 내용을 관리하는 리포지토리이다. \[코어 자바스크립트 책 내용 정리 및 기타 내가 이해한 내용들 정리](./concepts/core-javascript)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+나의 자바스크립트 기반 프로젝트의 설명 및 자바스크립트 공부 내용을 관리하는 리포지토리이다. \
 <br/>
 <br/>
 <br/>
@@ -25,22 +19,6 @@
 <br/>
 <br/>
 
-
-## 나중에 공부하고 싶은 자바스크립트 관련 프로젝트 주제
-- 타입 스크립트
-https://github.com/738/clean-code-typescript
-
-- chrome extensiton
-https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## 완료한 프로젝트
 [1] create react app 만드는 프로젝트 (시작: 2020.10.10)
@@ -69,6 +47,23 @@ https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-pl
 - socket io 등을 활용하자
 - socket io 를 사용해서 소켓 통신 해보기(웹소켓) ws프로토콜 
 https://d2.naver.com/helloworld/1336
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## 나중에 공부하고 싶은 자바스크립트 관련 프로젝트 주제
+- 타입 스크립트
+https://github.com/738/clean-code-typescript
+
+- chrome extensiton
+https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb
 
 <br/>
 <br/>
