@@ -1,5 +1,5 @@
 # Javascript
-나의 자바스크립트 기반 프로젝트의 설명 및 자바스크립트 공부 내용을 관리하는 리포지토리이다. 
+나의 자바스크립트 기반 프로젝트의 설명 및 자바스크립트 공부 내용을 관리하는 리포지토리이다. [코어 자바스크립트 책 내용 정리 및 기타 내가 이해한 내용들 정리](./concepts/core-javascript)
 
 ## [My RoadMap](https://roadmap.sh/frontend)
 <img src="https://roadmap.sh/roadmaps/frontend.png" width="500"/>
@@ -38,6 +38,14 @@
 
 1번과 3번 후 -> 13, 9번 + 본격적으로 노드를 다뤄보기 -> 8, 5번 순서로 공부하고자 한다. 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## 자바스크립트 개념 정리 - 자바스크립트 공부하기 
@@ -45,7 +53,15 @@
 1. Javascript HardParts
 2. [Javascript: From Fundamentlas to Functional JS](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) 
 3. Javascript New HardParts: https://frontendmasters.com/courses/javascript-new-hard-parts/
-
+4. [코어 자바스크립트 책 내용 정리 및 기타 내가 이해한 내용들 정리](./concepts/core-javascript) : 앞의 강의들을 듣고, 여기저기서 자바스크립트 관련 글을 읽으면서 배운 내용과, 이책의 내용을 같이 정리하고자 한다. 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## 나중에 공부하고 싶은 자바스크립트 관련 프로젝트 주제
@@ -56,6 +72,15 @@ https://github.com/738/clean-code-typescript
 https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb
 ----------------------
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 완료한 프로젝트
 [1] create react app 만드는 프로젝트 (시작: 2020.10.10)
 - cli 만들기: https://appear.github.io/2019/03/17/NODE/my-cli-01/
@@ -63,6 +88,14 @@ https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-pl
 - 후기: 완료했습니다! 문서 업데이트는 조만간
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
