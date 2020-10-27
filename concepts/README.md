@@ -67,3 +67,19 @@ npm run lint 이런식으로 매번 사용할 수 없기 때문에, 깃 훅을 �
 11. package.json 캐럿과 틸트의 차이
 https://blog.outsider.ne.kr/1041
 
+
+12. 스코프와 클로져
+https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19
+
+https://velog.io/@bathingape/%EC%8A%A4%EC%BD%94%ED%94%84Scope%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80Closure-%EC%9D%B4%ED%95%B4
+
+클로저란?
+```
+내부함수는 외부함수의 지역변수에 접근 할 수 있는데 외부함수의 실행이 끝나서 외부함수가 소멸된 이후에도 내부함수가 외부함수의 변수에 접근 할 수 있다.
+이러한 메커니즘을 클로저라고 한다
+```
+
+그리고 그 내부함수도 
+```
+내부함수에서 외부함수에서 선언된 변수를 사용한다면 그 내부함수는 클로저이다.
+```
