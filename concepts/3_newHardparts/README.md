@@ -224,3 +224,22 @@ _Javascript's built in iterators are actually objects with a next method that wh
 
 
 
+
+
+- handle asychronocity with generator
+```
+function doWhenDataReceived(value){
+	returnNextElement.next(value)
+}
+
+function* createFlow(){
+	const data = yield fetch("api");
+	console.log(data)
+}
+
+const returnNextElement = createFlow();
+const futureData = returnNextElement.next()
+futureData.then(doWhenDataReceived)
+
+```
+
