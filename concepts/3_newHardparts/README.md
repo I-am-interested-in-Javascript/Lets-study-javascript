@@ -135,10 +135,92 @@ https://javascript.info/event-loop
 
 
 3. Iterators
+```
+we regularly have lists or collections or data where we want to go through each item and do something to each element
+
+const numbers = [4,5,6]
+for(let i = 0; i < numbers.length; i++){
+	console.log(numbers[i]);
+} // 전통적인 방식: 하나하나씩 가져온다음 함수를 적용하는 것
 
 
+```
+Programs store data and apply functionality to it.. But there are two parts to applying functions to collections of data
+1. the process of accessing each elemnt
+2. what we want to do to each element
+
+Iterators automate the accessing of each element - so we can focus on what to do to each element -  and make it available to us in smooth way
+
+Imagine if we could create a function that stored numbers and each time we ran the function it would return out an element(The next one) from numbers. NOTE: It'd have to remember which element was next up somehow
+
+but this would let us think of our array/list as a stream/flow of data with our function returning the next element from our stream - this makes our code more readable and more functional
+
+_But it starts with us returning a function from another function_
+
+```
+we want to create a function that holds both our array, the position we are currently at in our stream of elements and has the ability to return the next element
+
+function createFunction(array){
+	let i = 0; 
+	function inner(){
+		const element = array[i]
+		i++;
+		return element
+	}
+	return inner
+}
+
+const returnNext element = createFunction([4,5,6]);
+
+```
+The bond 
+
+- when the function inner is defined, it gets a bond to the surrounding local memory in which it has been defined
+
+- when we return out inner, that surrounding live data is returned out too - attached on the back of the function definition itself(which we now give a new global label returnNextElement)
+
+- when we call returnNextElement and don't find array or i in the immediate execution context, we look into the function definition's backpack of persistent live data
+
+- the backpack is officially known as the cove or closure [[scope]]  -> lexically scoped/statically scoped language, persisent lexically scoped reference data(closed over variable environment
 
 
 
 4. Generators & Async/await
+once we start thinking of our data as flows(where we can pick of an element one-by-one) we can rethink how we produce those flows - javascript now lets us produce the flows using a function
+
+```
+function *createFlow(){
+	yield 4
+	yield 5
+	yield 6
+}
+
+const returnNextElment - createFlow()
+const element1 = returnNextElement.next()
+const element2 = returnNextElement.next()
+
+// built in iterators
+function createFlow(array) {
+	let i = 0;
+	const inner = {next: 
+		function() {
+			const element = array[i]
+			i++
+			return element
+		}
+	}
+	return inner
+}
+
+const returnNextElement = createFlow([4,5,6]);
+const element1 = returnNextElement.next();
+```
+
+_Javascript's built in iterators are actually objects with a next method that when called returns the next element from the stream/flow - so let's restructure slightly_ (빌트인 된 이터레이터들은   반환할때 {value: 값 , done: false, true }  이렇게 반환한다. 
+
+
+
+- yield : suspend execution context  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield
+
+
 
