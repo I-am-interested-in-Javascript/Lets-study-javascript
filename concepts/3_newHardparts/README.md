@@ -243,3 +243,17 @@ futureData.then(doWhenDataReceived)
 
 ```
 
+
+--> async/await을 쓰면 then에서 다른 함수를 써서 next로 넘어가는것을 안해도 된다
+
+```
+async function createFlow(){
+	console.log("me first")
+	const data = await fetch("api")
+	console.log(data)
+}
+createFlow()
+console.log("me second")
+
+```
+no nee for a triggered function on the promise resolution, instead we auto trigger the resumption of the createFlow execution(this functionality is still added to the microtask queue though)
