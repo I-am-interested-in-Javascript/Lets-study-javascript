@@ -65,6 +65,9 @@ https://github.com/738/clean-code-typescript
 - chrome extensiton
 https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb
 
+- electron으로 데스크탑 앱 너무 만들어보고 싶다
+https://www.electronjs.org/blog
+
 <br/>
 <br/>
 <br/>
