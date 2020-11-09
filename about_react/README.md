@@ -9,3 +9,7 @@
 - 리액트 훅스 https://reactjs.org/docs/hooks-overview.html
 
 - 불변성: https://velopert.com/3486
+
+3. Hooks
+https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&ab_channel=Codevolution
+
