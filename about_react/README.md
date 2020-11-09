@@ -1,5 +1,10 @@
 # React
 
+## 강의
+1. Introduction -complete intro to React v5 : [강의 리포](https://github.com/hayoung0Lee/complete-intro-to-react-v5?organization=hayoung0Lee&organization=hayoung0Lee) [Contents](https://btholt.github.io/complete-intro-to-react-v5/)
+
+
+## 참고자료
 1. React without CRA
 필요한 것들
 
@@ -16,3 +21,6 @@ https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3
 
 4. 훅스 15 min
 https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified
+
+
+
