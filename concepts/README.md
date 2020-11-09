@@ -86,3 +86,10 @@ https://velog.io/@bathingape/%EC%8A%A4%EC%BD%94%ED%94%84Scope%EC%99%80-%ED%81%B4
 
 
 13. DOM vs Virtual Dom: https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/
+
+
+14. This: function(){} vs () => {} 
+https://www.w3schools.com/js/js_arrow_function.asp
+
+function() {} : With a regular function this represents the object that calls the function:
+() => {} : With an arrow function this represents the owner of the function:
