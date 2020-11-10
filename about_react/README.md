@@ -1,7 +1,7 @@
 # React
 
 ## 강의
-1. Introduction -complete intro to React v5 : [강의 리포](https://github.com/btholt/complete-intro-to-react-v5) [Contents](https://btholt.github.io/complete-intro-to-react-v5/)
+1. Introduction -complete intro to React v5 : [강의 리포](https://github.com/btholt/complete-intro-to-react-v5) [Contents](https://btholt.github.io/complete-intro-to-react-v5/) [내연습리포](https://github.com/hayoung0Lee/intro-to-react-practice)
 
 
 ## 참고자료
