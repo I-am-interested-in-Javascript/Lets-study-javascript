@@ -93,3 +93,8 @@ https://www.w3schools.com/js/js_arrow_function.asp
 
 function() {} : With a regular function this represents the object that calls the function:
 () => {} : With an arrow function this represents the owner of the function:
+
+
+15. single page application vs multi page application
+https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
+
