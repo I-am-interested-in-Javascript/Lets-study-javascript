@@ -59,6 +59,8 @@ https://d2.naver.com/helloworld/1336
 
 
 ## 나중에 공부하고 싶은 자바스크립트 관련 프로젝트 주제
+- 프론트엔드 프로젝트 주제: https://blog.moeminmamdouh.com/7-websites-to-find-front-end-projects-for-your-portfolio
+
 - 타입 스크립트
 https://github.com/738/clean-code-typescript
 
