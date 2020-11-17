@@ -82,6 +82,8 @@ https://d2.naver.com/helloworld/8786166
 - 자바스크립트 질문: https://github.com/lydiahallie/javascript-questions
 
 - 자바스크립트 알고리즘: https://github.com/trekhleb/javascript-algorithms
+
+- 자바스크립트 클린코드: https://github.com/ryanmcdermott/clean-code-javascript#introduction
 <br/>
 <br/>
 <br/>
