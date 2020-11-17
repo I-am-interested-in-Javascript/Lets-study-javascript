@@ -80,6 +80,8 @@ https://d2.naver.com/helloworld/8786166
 - 구글 웹 공부: https://github.com/microsoft/Web-Dev-For-Beginners
 
 - 자바스크립트 질문: https://github.com/lydiahallie/javascript-questions
+
+- 자바스크립트 알고리즘: https://github.com/trekhleb/javascript-algorithms
 <br/>
 <br/>
 <br/>
