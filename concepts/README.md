@@ -1,3 +1,5 @@
+0. what is javascript, really? https://codeburst.io/what-is-javascript-really-f08482289f6f
+
 1. promise chaining 관련 글
 https://javascript.info/promise-chaining
 
