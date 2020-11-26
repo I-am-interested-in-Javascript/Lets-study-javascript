@@ -1,6 +1,7 @@
 ## 공식 문서 node js 란?
 https://nodejs.org/en/about/
 
+<img src="node.PNG" />
 ## node js 공부 및 자료 정리
 [1] Frontend Masters [Introduction to Node js 강의 주소](https://frontendmasters.com/courses/node-js/) / [강의 repo](https://github.com/FrontendMasters/intro-node-js)
 
